@@ -1,3 +1,4 @@
 classification/dataset.zip filter=lfs diff=lfs merge=lfs -text
 clustering/*.csv filter=lfs diff=lfs merge=lfs -text
 support_vector_machine/*.csv filter=lfs diff=lfs merge=lfs -text
+support_vector_machine/*/*.csv filter=lfs diff=lfs merge=lfs -text
